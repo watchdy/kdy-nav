@@ -1,11 +1,11 @@
 [
 	{
-		"group_name": "AI资源",
+		"group_name": "Ai相关",
 		"style": 1,
 		"style_des": "标准风格",
 		"tab_list": [
 			{
-				"tab_name": "AI对话聊天",
+				"tab_name": "智能聊天",
 				"upper_right_corner": {
 					"title": "免梯GPT4",
 					"url": "https://dh.gptyylx.com/"
@@ -71,7 +71,7 @@
 				]
 			},
 			{
-				"tab_name": "AI搜索",
+				"tab_name": "智能搜索",
 				"upper_right_corner": {},
 				"details": [
 					{
@@ -109,7 +109,7 @@
 				]
 			},
 			{
-				"tab_name": "AI音频",
+				"tab_name": "智能音频",
 				"upper_right_corner": {},
 				"details": [
 					{
@@ -147,7 +147,7 @@
 				]
 			},
 			{
-				"tab_name": "AI绘画",
+				"tab_name": "智能绘画",
 				"upper_right_corner": {},
 				"details": [
 					{
@@ -185,7 +185,7 @@
 				]
 			},
 			{
-				"tab_name": "AI视频",
+				"tab_name": "智能视频",
 				"upper_right_corner": {},
 				"details": [
 					{
@@ -239,7 +239,7 @@
 				]
 			},
 			{
-				"tab_name": "AI办公",
+				"tab_name": "智能办公",
 				"upper_right_corner": {},
 				"details": [
 					{
@@ -685,7 +685,7 @@
 				]
 			},
 			{
-				"tab_name": "综合",
+				"tab_name": "影视综合",
 				"upper_right_corner": {},
 				"details": [
 					{
