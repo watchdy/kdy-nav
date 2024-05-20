@@ -12,13 +12,13 @@
 			{
 				"name": "谷歌",
 				"url": "https://google.com/search?igu=1&q={keyword}",
-				"icon": "https://img.fre123.com/i/2023/11/26/6563038539819.png",
+				"icon": "https://image.baidu.com/search/down?url=https://img.fre123.com/i/2023/11/26/6563038539819.png",
 				"is_show": true
 			},
 			{
 				"name": "百度",
 				"url": "https://www.baidu.com/s?wd={keyword}",
-				"icon": "https://img.fre123.com/i/2023/11/26/656303de24efc.png",
+				"icon": "https://image.baidu.com/search/down?url=https://img.fre123.com/i/2023/11/26/656303de24efc.png",
 				"is_show": true
 			},
 			{
@@ -84,13 +84,13 @@
 			{
 				"name": "AGE 动漫",
 				"url": "https://www.agedm.org/search?query={keyword}",
-				"icon": "https://img.fre123.com/i/2023/11/25/6561b8413511a.png",
+				"icon": "https://image.baidu.com/search/down?url=https://img.fre123.com/i/2023/11/25/6561b8413511a.png",
 				"is_show": true
 			},
 			{
 				"name": "樱花动漫",
 				"url": "https://www.iyhdmm.com/s_all?ex=1&kw={keyword}",
-				"icon": "https://img.fre123.com/i/2023/11/25/6561b85abc481.png",
+				"icon": "https://image.baidu.com/search/down?url=https://img.fre123.com/i/2023/11/25/6561b85abc481.png",
 				"is_show": true
 			},
 			{
@@ -102,7 +102,7 @@
 			{
 				"name": "风车动漫",
 				"url": "https://dm530.org/search?q={keyword}",
-				"icon": "https://img.fre123.com/i/2023/12/13/6579a6860c978.ico",
+				"icon": "https://image.baidu.com/search/down?url=https://img.fre123.com/i/2023/12/13/6579a6860c978.ico",
 				"is_show": false
 			}
 		]
@@ -114,31 +114,31 @@
 			{
 				"name": "包子漫画",
 				"url": "https://cn.baozimh.com/search?q={keyword}",
-				"icon": "https://img.fre123.com/i/2023/11/25/6561b8d372fc7.png",
+				"icon": "https://image.baidu.com/search/down?url=https://img.fre123.com/i/2023/11/25/6561b8d372fc7.png",
 				"is_show": true
 			},
 			{
 				"name": "yymanhua",
 				"url": "https://www.yymanhua.com/search?title={keyword}",
-				"icon": "https://img.fre123.com/i/2024/01/15/65a4260f700e0.ico",
+				"icon": "https://image.baidu.com/search/down?url=https://img.fre123.com/i/2024/01/15/65a4260f700e0.ico",
 				"is_show": true
 			},
 			{
 				"name": "漫畫狗",
 				"url": "https://dogemanga.com/?q={keyword}",
-				"icon": "https://img.fre123.com/i/2023/12/14/6579d8ec4fc48.png",
+				"icon": "https://image.baidu.com/search/down?url=https://img.fre123.com/i/2023/12/14/6579d8ec4fc48.png",
 				"is_show": true
 			},
 			{
 				"name": "漫画DB",
 				"url": "https://www.manhuadb.com/search?q={keyword}",
-				"icon": "https://img.fre123.com/i/2023/11/25/6561b8d372fc7.png",
+				"icon": "https://image.baidu.com/search/down?url=https://img.fre123.com/i/2023/11/25/6561b8d372fc7.png",
 				"is_show": true
 			},
 			{
 				"name": "大树漫画",
 				"url": "https://www.dashumanhua.com/search?types=comic&searhword={keyword}",
-				"icon": "https://img.fre123.com/i/2024/01/15/65a426b0960dd.ico",
+				"icon": "https://image.baidu.com/search/down?url=https://img.fre123.com/i/2024/01/15/65a426b0960dd.ico",
 				"is_show": true
 			}
 		]
@@ -151,19 +151,19 @@
 			{
 				"name": "微信读书",
 				"url": "https://weread.qq.com/web/search/books?keyword={keyword}",
-				"icon": "https://img.fre123.com/i/2024/02/21/65d4ed7d38bd2.ico",
+				"icon": "https://image.baidu.com/search/down?url=https://img.fre123.com/i/2024/02/21/65d4ed7d38bd2.ico",
 				"is_show": true
 			},
 			{
 				"name": "相识",
 				"url": "https://www.xiangshibook.com/search?kw={keyword}",
-				"icon": "https://img.fre123.com/i/2024/02/22/65d75b840fb18.ico",
+				"icon": "https://image.baidu.com/search/down?url=https://img.fre123.com/i/2024/02/22/65d75b840fb18.ico",
 				"is_show": true
 			},
 			{
 				"name": "书葵网",
 				"url": "https://www.shukui.net/so/search.php?q={keyword}",
-				"icon": "https://img.fre123.com/i/2024/02/19/65d22d38f2c44.ico",
+				"icon": "https://image.baidu.com/search/down?url=https://img.fre123.com/i/2024/02/19/65d22d38f2c44.ico",
 				"is_show": true
 			}
 		]
@@ -175,19 +175,19 @@
 			{
 				"name": "燃文小说网",
 				"url": "https://www.ygshu.com/dfhdfdfhdfh.php?ie=gbk&q={keyword}",
-				"icon": "https://img.fre123.com/i/2024/01/16/65a56b8693096.jpg",
+				"icon": "https://image.baidu.com/search/down?url=https://img.fre123.com/i/2024/01/16/65a56b8693096.jpg",
 				"is_show": true
 			},
 			{
 				"name": "知轩藏书",
 				"url": "https://zxcs.info/index.php?keyword={keyword}",
-				"icon": "https://img.fre123.com/i/2024/01/16/65a56cd10e169.jpg",
+				"icon": "https://image.baidu.com/search/down?url=https://img.fre123.com/i/2024/01/16/65a56cd10e169.jpg",
 				"is_show": true
 			},
 			{
 				"name": "笔趣看",
 				"url": "https://bqg123.net/search?form=biqusoso&keyword={keyword}",
-				"icon": "https://img.fre123.com/i/2024/01/16/65a56064bfe91.ico",
+				"icon": "https://image.baidu.com/search/down?url=https://img.fre123.com/i/2024/01/16/65a56064bfe91.ico",
 				"is_show": true
 			}
 		]
@@ -199,25 +199,25 @@
 			{
 				"name": "夸克搜",
 				"url": "https://www.quark.so/s?query={keyword}",
-				"icon": "https://img.fre123.com/i/2024/03/29/6606d33b5a284.png",
+				"icon": "https://image.baidu.com/search/down?url=https://img.fre123.com/i/2024/03/29/6606d33b5a284.png",
 				"is_show": false
 			},
 			{
 				"name": "狸猫盘搜",
 				"url": "https://alipansou.com/search?k={keyword}",
-				"icon": "https://img.fre123.com/i/2024/01/04/65959eb813cb0.png",
+				"icon": "https://image.baidu.com/search/down?url=https://img.fre123.com/i/2024/01/04/65959eb813cb0.png",
 				"is_show": true
 			},
 			{
 				"name": "秒搜",
 				"url": "https://miaosou.fun/info?searchKey={keyword}",
-				"icon": "https://img.fre123.com/i/2024/01/15/65a42165e8b35.png",
+				"icon": "https://image.baidu.com/search/down?url=https://img.fre123.com/i/2024/01/15/65a42165e8b35.png",
 				"is_show": true
 			},
 			{
 				"name": "PanSearch",
 				"url": "https://www.pansearch.me/search?keyword={keyword}",
-				"icon": "https://img.fre123.com/i/2024/01/15/65a5494651842.png",
+				"icon": "https://image.baidu.com/search/down?url=https://img.fre123.com/i/2024/01/15/65a5494651842.png",
 				"is_show": true
 			}
 		]

@@ -2,13 +2,13 @@
 	"base": {
 		"app_name": "AI娱乐导航站",
 		"web_host": "https://www.aifundh.com",
-		"logo": "https://pro-img.kdy666.com/file/ed0022e877457bfd5298b.png"
+		"logo": "https://image.baidu.com/search/down?url=https://pro-img.kdy666.com/file/ed0022e877457bfd5298b.png"
 	},
 	"seo": {
 		"title": "AI娱乐导航站",
 		"description": "AI娱乐导航站 专注于为您提供各种免费优质资源，包括影视资源、动漫番剧、软件工具、AI资源站等。",
 		"keywords": "AI娱乐导航站, 优质资源, 资源聚合, 软件工具, AI资源导航, 网盘资源",
-		"icon": "https://pro-img.kdy666.com/file/db17ca954e533705e0517.png"
+		"icon": "https://image.baidu.com/search/down?url=https://pro-img.kdy666.com/file/db17ca954e533705e0517.png"
 	},
 	"header": {
 		"search": {
@@ -29,7 +29,7 @@
 				{
 					"name": "谷歌",
 					"url": "https://www.google.com/search?q=",
-					"icon": "https://img.fre123.com/i/2023/11/26/6563038539819.png",
+					"icon": "https://image.baidu.com/search/down?url=https://img.fre123.com/i/2023/11/26/6563038539819.png",
 					"placeholder": "请输入您要搜索的内容..."
 				},
 				{
