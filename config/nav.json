@@ -6,7 +6,10 @@
 		"tab_list": [
 			{
 				"tab_name": "AI对话聊天",
-				"upper_right_corner": {},
+				"upper_right_corner": {
+					"title": "免梯GPT4",
+					"url": "https://dh.gptyylx.com/"
+				},
 				"details": [
 					{
 						"title": "ChatGpt",
@@ -145,6 +148,44 @@
 						"url": "https://free.easychat.work/",
 						"icon": "https://pro-img.kdy666.com/file/db17ca954e533705e0517.png",
 						"description": "国内MJ镜像",
+						"suffix": true,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "AI办公",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "WPS智能写作",
+						"url": "https://ai.wps.cn/",
+						"icon": "https://api.iowen.cn/favicon/ai.wps.cn.png",
+						"description": "WPS智能写作是金山办公基于AI时代重磅推出的一款帮助用户高效创作的智能写作产品。",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "酷表ChatExcel",
+						"url": "https://chatexcel.com/",
+						"icon": "https://api.iowen.cn/favicon/chatexcel.com.png",
+						"description": "北大团队开发的通过聊天来操控您的Excel表格",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "ChatPPT",
+						"url": "https://chat-ppt.com/",
+						"icon": "https://api.iowen.cn/favicon/chat-ppt.com.png",
+						"description": "命令式一键生成PPT，国内首个中文AI生成PPT的办公产品",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "TreeMind树图",
+						"url": "https://shutu.cn/",
+						"icon": "https://api.iowen.cn/favicon/shutu.cn.png",
+						"description": "新一代'AI人工智能'思维导图",
 						"suffix": true,
 						"is_show": true
 					}
@@ -310,7 +351,10 @@
 		"tab_list": [
 			{
 				"tab_name": "在线影视",
-				"upper_right_corner": {},
+				"upper_right_corner": {
+					"title": "经典影视在线",
+					"url": "https://www.kdy666.pro"
+				},
 				"details": [
 					{
 						"title": "看电影",
@@ -320,6 +364,7 @@
 						"suffix": true,
 						"is_show": true
 					},
+					
 					{
 						"title": "在线之家",
 						"url": "https://www.zxzj.site",
@@ -365,6 +410,14 @@
 						"url": "https://fivevu.com/",
 						"icon": "https://t1.021huaying.com/uploads/2023-07-11/d5/dab0e3457248f3c83f8c1b95b7447d99.webp",
 						"description": "每天更新热火欧美日韩剧",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "爱壹帆",
+						"url": "https://m.iyf.tv",
+						"icon": "https://pic.rmb.bdstatic.com/bjh/240418/material/993f1f304c2d20f68a8695581ef3fdc25130.png",
+						"description": "可能需要魔法工具。爱壹帆是一个面向海外华人用户的高清影视剧在线观看的网站，提供的内容非常全面，覆盖电影、电视剧、综艺、动漫、体育、纪录片、电视直播等",
 						"suffix": true,
 						"is_show": true
 					}
@@ -1688,6 +1741,27 @@
 						"description": "提供高清尺寸且品质优良的免费照片网站（无版权）",
 						"suffix": false,
 						"is_show": false
+					}
+				]
+			}
+		]
+	},
+	{
+		"group_name": "其他",
+		"style": 1,
+		"style_des": "友情链接",
+		"tab_list": [
+			{
+				"tab_name": "友情链接",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "看电影",
+						"url": "https://www.kdy666.pro",
+						"icon": "https://p70.kdy666.pro/favicon.ico",
+						"description": "看电影 www.kdy666.pro,,视频弹幕站点,冷门经典电影,支持冷门影片补录",
+						"suffix": true,
+						"is_show": true
 					}
 				]
 			}

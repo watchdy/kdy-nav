@@ -3,6 +3,7 @@
 		<section class="flex justify-center">
 			<!-- Left -->
 			<div class="text-[14px] h-[30px]">
+				本站所有信息均采集于互联网，所有内容仅供学习交流，严禁用于商业用途或者非法用途，若有侵权请联系1549930804@qq.com
 				<span
 					>Powered by
 					<a
