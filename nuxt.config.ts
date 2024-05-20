@@ -22,19 +22,17 @@ export default defineNuxtConfig({
 					rel: 'icon',
 					// size: '32x32',
 					type: 'image/x-icon',
-					href: 'https://img.fre123.com/i/2023/11/25/65619e791f166.ico',
+					href: 'https://pro-img.kdy666.com/file/8fa68671fd8e157eae392.jpg',
 				},
 			],
 			meta: [
 				{
 					name: 'keywords',
-					content:
-						'FRE123, 免费资源, 优质资源, 资源聚合, 在线资源, 影视资源, 动漫番剧, 软件工具, 网盘资源',
+					content: '朝阳导航站 专注于为您提供各种免费优质资源，包括影视资源、动漫番剧、软件工具、AI资源等。',
 				},
 				{
 					name: 'description',
-					content:
-						'FRE123 专注于为您提供各种免费优质资源，包括影视资源、动漫番剧、软件工具等。无论您在寻找哪种资源，我们都将尽力为您提供，为您的学习或工作助力',
+					content: '朝阳导航站 专注于为您提供各种免费优质资源，包括影视资源、动漫番剧、软件工具、AI资源等。',
 				},
 			],
 		},
