@@ -1,5 +1,158 @@
 [
 	{
+		"group_name": "AI资源",
+		"style": 1,
+		"style_des": "标准风格",
+		"tab_list": [
+			{
+				"tab_name": "AI对话聊天",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "ChatGpt",
+						"url": "https://chat.openai.com/",
+						"icon": "http://ai-nav.net/wp-content/uploads/2023/06/chatgpt-icon.png",
+						"description": "OpenAI旗下AI对话工具",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Claude",
+						"url": "https://www.anthropic.com/claude",
+						"icon": "https://ai-nav.net/wp-content/uploads/2023/06/anthropic-icon.png",
+						"description": "Claude is a next generation AI assistant built for work and trained to be safe, accurate, and secure.",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Google Bard",
+						"url": "https://blog.google/technology/ai/try-bard/",
+						"icon": "https://ai-nav.net/wp-content/uploads/2023/06/google-bard-favicon.png",
+						"description": "Google推出的AI聊天对话机器人Bard",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "天工AI",
+						"url": "https://www.tiangong.cn/",
+						"icon": "https://dh.gptyylx.com/favicon.ico",
+						"description": "天工是国内第一款AI搜索引擎，它能够理解用户意图，搜索全网海量信息，并通过人工智能技术，归纳、概括、整合这些信息，输出高质量、无广告的搜索结果，还能够把搜索结果自动整理为脑图和大纲，支持专业的学术科研类搜索。",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Kimi",
+						"url": "https://kimi.moonshot.cn/",
+						"icon": "https://statics.moonshot.cn/kimi-chat/favicon.ico",
+						"description": "Kimi.ai - 帮你看更大的世界",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "智谱大模型",
+						"url": "https://chatglm.cn/",
+						"icon": "https://chatglm.cn/favicon.ico",
+						"description": "ChatGLM，glm，智谱大模型，大模型，中国版chatgpt，中国版gpt3",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "AiChat",
+						"url": "https://dh.gptyylx.com/",
+						"icon": "https://dh.gptyylx.com/favicon.ico",
+						"description": "ChatGpt国内每日可白嫖镜像站",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "国内镜像站合集",
+						"url": "https://github.com/LiLittleCat/awesome-free-chatgpt",
+						"icon": "https://dh.gptyylx.com/favicon.ico",
+						"description": "ChatGpt国内镜像站",
+						"suffix": true,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "AI音频",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "网易天音",
+						"url": "https://tianyin.music.163.com/#/",
+						"icon": "https://ai-nav.net/wp-content/uploads/2023/07/tianyin-163-icon.png",
+						"description": "网易推出的一站式AI音乐创作工具",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Suno",
+						"url": "https://suno.com/",
+						"icon": "https://suno.com/favicon.ico",
+						"description": "Suno is building a future where anyone can make great music. Home. Create. Library. Explore Beta. Help About. Make a song about anything.",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "讯飞智作",
+						"url": "https://peiyin.xunfei.cn",
+						"icon": "https://peiyin.xunfei.cn/themes/images/bigpeiyinge_favicon.ico",
+						"description": "提供文字转语音-语音合成-国内专业的一站式配音服务平台",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Resemble.ai",
+						"url": "https://www.resemble.ai/",
+						"icon": "https://ai-nav.net/wp-content/uploads/2023/07/resemble.ai-icon.png",
+						"description": "AI人生合成工具",
+						"suffix": true,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "AI绘画",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "Midjourney",
+						"url": "https://www.midjourney.com/",
+						"icon": "https://ai-nav.net/wp-content/uploads/2023/07/midjourney-icon.png",
+						"description": "你有没有想过你可以把你输入的文本变成图片？ 想象一下，只需几句话就能为你的故事、演示文稿、游戏或艺术项目创建令人惊叹的视觉效果，这正是Midjourney所做的。Midjourney是一个文本生成图像的AI工具，可让你从任何文本描述中生成逼真且多样化的图像。无论你想创造奇幻风景、未来城市、可爱动物，还是任何你能想到的东西，Midjourney都可以帮助你实现。",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "豆包",
+						"url": "https://www.doubao.com/",
+						"icon": "https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao/logo_new.png",
+						"description": "抖音旗下综合AI工具，豆包是你的AI 聊天智能对话问答助手，写作文案翻译情感陪伴编程全能工具。豆包为你答疑解惑，提供灵感，辅助创作，也可以和你畅聊任何你感兴趣的话题。",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "JourneyArt",
+						"url": "https://journeyart.ai",
+						"icon": "https://journeyart.ai/favicon.ico",
+						"description": "MJ镜像站。由Midjourney V6 API驱动的Midjourney艺术人工智能。",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "EASYGPT",
+						"url": "https://free.easychat.work/",
+						"icon": "https://pro-img.kdy666.com/file/db17ca954e533705e0517.png",
+						"description": "国内MJ镜像",
+						"suffix": true,
+						"is_show": true
+					}
+				]
+			}
+		]
+	},
+	{
 		"group_name": "新闻资讯",
 		"style": 1,
 		"style_des": "标准风格",
@@ -450,121 +603,6 @@
 						"url": "https://yyets.click/",
 						"icon": "https://yyets.click/svg/logo.svg",
 						"description": "人人影视分享站",
-						"suffix": true,
-						"is_show": true
-					}
-				]
-			}
-		]
-	},
-	{
-		"group_name": "AI资源",
-		"style": 1,
-		"style_des": "标准风格",
-		"tab_list": [
-			{
-				"tab_name": "AI对话聊天",
-				"upper_right_corner": {},
-				"details": [
-					{
-						"title": "ChatGpt",
-						"url": "https://chat.openai.com/",
-						"icon": "http://ai-nav.net/wp-content/uploads/2023/06/chatgpt-icon.png",
-						"description": "OpenAI旗下AI对话工具",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "Claude",
-						"url": "https://www.anthropic.com/claude",
-						"icon": "https://ai-nav.net/wp-content/uploads/2023/06/anthropic-icon.png",
-						"description": "Claude is a next generation AI assistant built for work and trained to be safe, accurate, and secure.",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "Google Bard",
-						"url": "https://blog.google/technology/ai/try-bard/",
-						"icon": "https://ai-nav.net/wp-content/uploads/2023/06/google-bard-favicon.png",
-						"description": "Google推出的AI聊天对话机器人Bard",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "天工AI",
-						"url": "https://www.tiangong.cn/",
-						"icon": "https://static.tiangong.cn/wwwsite/logo.ico",
-						"description": "天工是国内第一款AI搜索引擎，它能够理解用户意图，搜索全网海量信息，并通过人工智能技术，归纳、概括、整合这些信息，输出高质量、无广告的搜索结果，还能够把搜索结果自动整理为脑图和大纲，支持专业的学术科研类搜索。",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "Kimi",
-						"url": "https://kimi.moonshot.cn/",
-						"icon": "https://statics.moonshot.cn/kimi-chat/favicon.ico",
-						"description": "Kimi.ai - 帮你看更大的世界",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "智谱大模型",
-						"url": "https://chatglm.cn/",
-						"icon": "https://chatglm.cn/favicon.ico",
-						"description": "ChatGLM，glm，智谱大模型，大模型，中国版chatgpt，中国版gpt3",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "AiChat",
-						"url": "https://dh.gptyylx.com/",
-						"icon": "https://dh.gptyylx.com/favicon.ico",
-						"description": "ChatGpt国内每日可白嫖镜像站",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "国内镜像站合集",
-						"url": "https://github.com/LiLittleCat/awesome-free-chatgpt",
-						"icon": "https://dh.gptyylx.com/favicon.ico",
-						"description": "ChatGpt国内镜像站",
-						"suffix": true,
-						"is_show": true
-					}
-				]
-			},
-			{
-				"tab_name": "AI音频",
-				"upper_right_corner": {},
-				"details": [
-					{
-						"title": "网易天音",
-						"url": "https://tianyin.music.163.com/#/",
-						"icon": "https://ai-nav.net/wp-content/uploads/2023/07/tianyin-163-icon.png",
-						"description": "网易推出的一站式AI音乐创作工具",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "Suno",
-						"url": "https://suno.com/",
-						"icon": "https://suno.com/favicon.ico",
-						"description": "Suno is building a future where anyone can make great music. Home. Create. Library. Explore Beta. Help About. Make a song about anything.",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "讯飞智作",
-						"url": "https://peiyin.xunfei.cn",
-						"icon": "https://peiyin.xunfei.cn/themes/images/bigpeiyinge_favicon.ico",
-						"description": "提供文字转语音-语音合成-国内专业的一站式配音服务平台",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "Resemble.ai",
-						"url": "https://www.resemble.ai/",
-						"icon": "https://ai-nav.net/wp-content/uploads/2023/07/resemble.ai-icon.png",
-						"description": "AI人生合成工具",
 						"suffix": true,
 						"is_show": true
 					}

@@ -22,17 +22,17 @@ export default defineNuxtConfig({
 					rel: 'icon',
 					// size: '32x32',
 					type: 'image/x-icon',
-					href: 'https://pro-img.kdy666.com/file/8fa68671fd8e157eae392.jpg',
+					href: 'https://pro-img.kdy666.com/file/db17ca954e533705e0517.png',
 				},
 			],
 			meta: [
 				{
 					name: 'keywords',
-					content: '朝阳导航站 专注于为您提供各种免费优质资源，包括影视资源、动漫番剧、软件工具、AI资源等。',
+					content: 'AI娱乐导航站 专注于为您提供各种免费优质资源，包括影视资源、动漫番剧、软件工具、AI资源站等。',
 				},
 				{
 					name: 'description',
-					content: '朝阳导航站 专注于为您提供各种免费优质资源，包括影视资源、动漫番剧、软件工具、AI资源等。',
+					content: 'AI娱乐导航站 专注于为您提供各种免费优质资源，包括影视资源、动漫番剧、软件工具、AI资源站等。',
 				},
 			],
 		},
