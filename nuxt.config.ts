@@ -17,14 +17,14 @@ export default defineNuxtConfig({
 	},
 	app: {
 		head: {
-			link: [
-				{
-					rel: 'icon',
-					// size: '32x32',
-					type: 'image/x-icon',
-					href: 'https://pro-img.kdy666.com/file/db17ca954e533705e0517.png',
-				},
-			],
+			// link: [
+			// 	{
+			// 		rel: 'icon',
+			// 		// size: '32x32',
+			// 		type: 'image/x-icon',
+			// 		href: 'https://pro-img.kdy666.com/file/db17ca954e533705e0517.png',
+			// 	},
+			// ],
 			meta: [
 				{
 					name: 'keywords',

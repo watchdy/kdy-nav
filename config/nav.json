@@ -685,6 +685,45 @@
 				]
 			},
 			{
+				"tab_name": "字幕下载",
+				"upper_right_corner": {
+				},
+				"details": [
+					{
+						"title": "字幕库",
+						"url": "https://zimuku.org/",
+						"icon": "https://image.baidu.com/search/down?url=https://zimuku.org/images/v2/favicon.png",
+						"description": "字幕,字幕下载,电影字幕下载,美剧字幕下载,韩剧字幕下载,中文字幕下载",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "SubHD",
+						"url": "https://subhd.tv/",
+						"icon": "https://image.baidu.com/search/down?url=https://img.huo720.com/favicon-32x32.png",
+						"description": "分享交流下载字幕平台",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "射手网(伪)",
+						"url": "https://assrt.net/",
+						"icon": "https://image.baidu.com/search/down?url=https://assrt.net/favicon.ico",
+						"description": "字幕下载，字幕组，中文字幕，美剧字幕，英剧字幕，双语字幕，新番字幕",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Open Subtitles",
+						"url": "https://www.opensubtitles.org/zh",
+						"icon": "https://image.baidu.com/search/down?url=https://static.opensubtitles.org/favicon.ico",
+						"description": "多语种的电影及剧集字幕，每日更新千余条翻译好的字幕。免费下载，提供API接口，已拥有上百万的用户。",
+						"suffix": true,
+						"is_show": true
+					}
+				]
+			},
+			{
 				"tab_name": "影视综合",
 				"upper_right_corner": {},
 				"details": [
