@@ -36,43 +36,43 @@
 			{
 				"name": "看电影(经典优先)",
 				"url": "https://p70.kdy666.pro/Home/Search?KeyWord={keyword}&SearchType=2",
-				"icon": "https://p70.kdy666.pro/favicon.ico",
+				"icon": "https://image.baidu.com/search/down?url=https://p70.kdy666.pro/favicon.ico",
 				"is_show": true
 			},
 				{
 				"name": "厂长资源",
 				"url": "https://www.czys.top/daoyongjiekoshibushiyoubing?q={keyword}",
-				"icon": "https://img.py1080p.com/2021/10/5c7a67356cec28.ico",
+				"icon": "https://image.baidu.com/search/down?url=https://img.py1080p.com/2021/10/5c7a67356cec28.ico",
 				"is_show": true
 			},
 			{
 				"name": "在线之家",
 				"url": "https://www.zxzjhd.com/vodsearch/-------------.html?wd={keyword}",
-				"icon": "https://www.zxzjhd.com/statics/img/favicon.ico",
+				"icon": "https://image.baidu.com/search/down?url=https://www.zxzjhd.com/statics/img/favicon.ico",
 				"is_show": true
 			},
 			{
 				"name": "LIBVIO",
 				"url": "https://www.libvio.fun/search/-------------.html?wd={keyword}",
-				"icon": "https://xiaoxiaojia.oss-cn-shanghai.aliyuncs.com/statics/img/favicon.ico",
+				"icon": "https://image.baidu.com/search/down?url=https://xiaoxiaojia.oss-cn-shanghai.aliyuncs.com/statics/img/favicon.ico",
 				"is_show": true
 			},
 			{
 				"name": "HDmoli",
 				"url": "https://www.hdmoli.pro/search.php?searchword={keyword}",
-				"icon": "https://www.hdmoli.pro/favicon.ico",
+				"icon": "https://image.baidu.com/search/down?url=https://www.hdmoli.pro/favicon.ico",
 				"is_show": true
 			},
 			{
 				"name": "NO 视频",
 				"url": "https://www.novipnoad.net/?s={keyword}",
-				"icon": "https://www.novipnoad.net/favicon.ico",
+				"icon": "https://image.baidu.com/search/down?url=https://www.novipnoad.net/favicon.ico",
 				"is_show": true
 			},
 			{
 				"name": "低端影视",
 				"url": "https://ddys.pro/?s={keyword}",
-				"icon": "https://ddys.pro/favicon.ico",
+				"icon": "https://image.baidu.com/search/down?url=https://ddys.pro/favicon.ico",
 				"is_show": true
 			}
 		]
